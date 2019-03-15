@@ -1,0 +1,52 @@
+{
+  "name": "superLiteratureBot",
+  "padlock": "4ya2zSsuAE2dLCIwY2ZMJg==!C9rdOptl213ibQo/j6pkW9bq8kJsaxokXoxYQ60nHFqVbXvxRABEqNURuBy+7V0C",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "46fe0574-4abd-4abb-abdf-dfba2f6a77be",
+      "subscriptionId": "d0430292-f869-4bda-9e1c-457595623842",
+      "resourceGroup": "Raspredelenki20190312123348ResourceGroup",
+      "serviceName": "superLiteratureBot",
+      "type": "abs",
+      "name": "superLiteratureBot",
+      "id": "1"
+    },
+    {
+      "connectionString": "kuOt9VqGZEytNc1tzQkmVg==!uol8KqNzZnrVgUvmDNtiBoLctXBzfD+LgGQF5T/xFhDMI9Wemt3bHYzoHoeUDonAWUa4OA/WDAxz9AN7SPnGsjunnLJ+NDBVIzfua2/Qc7XfY1eeZPdiAmNUDHhm8+9wDfB3jL6E/m0KKXnj+AYjFHQICs505BHao8OT2xYExwyv+rYEG+Hj5MPm6aiNApja5Oj0FTN7cMrRcUFhjUtLeTdQLjshuDK07ininHKLabM=",
+      "tenantId": "46fe0574-4abd-4abb-abdf-dfba2f6a77be",
+      "subscriptionId": "d0430292-f869-4bda-9e1c-457595623842",
+      "resourceGroup": "Raspredelenki20190312123348ResourceGroup",
+      "serviceName": "superliteraturebotbd04",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "3566691d-ac4a-485c-8dcd-0be5b29083a8",
+      "appPassword": "VlH7rRL2PWXSTZz/F5cGfw==!SRfnZgHZB8qnKQd0gXqMKkM/cdKOWzsk1g2iEDlKYLo=",
+      "endpoint": "https://superliteraturebot.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "9vVeaSNA3QdLOKMiGOHqTA==!t0VuOI7NwA1bUoZ2DvBI2llobOwWoITw1Hu1XzIym82Sfy4n3rXgaFg6+2VhQVAX",
+      "applicationId": "0aaaefbb-60af-489f-a9d3-ad2150e06f99",
+      "apiKeys": {},
+      "tenantId": "46fe0574-4abd-4abb-abdf-dfba2f6a77be",
+      "subscriptionId": "d0430292-f869-4bda-9e1c-457595623842",
+      "resourceGroup": "Raspredelenki20190312123348ResourceGroup",
+      "serviceName": "superLiteratureBotmtl7ei",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}

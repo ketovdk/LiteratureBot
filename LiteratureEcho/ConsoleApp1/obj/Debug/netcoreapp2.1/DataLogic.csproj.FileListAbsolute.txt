@@ -1,0 +1,12 @@
+C:\Users\Administrator.TESTPORTAL\Desktop\LiteratureEcho\ConsoleApp1\bin\Debug\netcoreapp2.1\DataLogic.deps.json
+C:\Users\Administrator.TESTPORTAL\Desktop\LiteratureEcho\ConsoleApp1\bin\Debug\netcoreapp2.1\DataLogic.runtimeconfig.json
+C:\Users\Administrator.TESTPORTAL\Desktop\LiteratureEcho\ConsoleApp1\bin\Debug\netcoreapp2.1\DataLogic.runtimeconfig.dev.json
+C:\Users\Administrator.TESTPORTAL\Desktop\LiteratureEcho\ConsoleApp1\bin\Debug\netcoreapp2.1\DataLogic.dll
+C:\Users\Administrator.TESTPORTAL\Desktop\LiteratureEcho\ConsoleApp1\obj\Debug\netcoreapp2.1\DataLogic.csprojAssemblyReference.cache
+C:\Users\Administrator.TESTPORTAL\Desktop\LiteratureEcho\ConsoleApp1\obj\Debug\netcoreapp2.1\DataLogic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.TESTPORTAL\Desktop\LiteratureEcho\ConsoleApp1\obj\Debug\netcoreapp2.1\DataLogic.AssemblyInfoInputs.cache
+C:\Users\Administrator.TESTPORTAL\Desktop\LiteratureEcho\ConsoleApp1\obj\Debug\netcoreapp2.1\DataLogic.AssemblyInfo.cs
+C:\Users\Administrator.TESTPORTAL\Desktop\LiteratureEcho\ConsoleApp1\bin\Debug\netcoreapp2.1\DataLogic.pdb
+C:\Users\Administrator.TESTPORTAL\Desktop\LiteratureEcho\ConsoleApp1\obj\Debug\netcoreapp2.1\DataLogic.dll
+C:\Users\Administrator.TESTPORTAL\Desktop\LiteratureEcho\ConsoleApp1\obj\Debug\netcoreapp2.1\DataLogic.pdb
+C:\Users\Administrator.TESTPORTAL\Desktop\LiteratureEcho\ConsoleApp1\bin\Debug\netcoreapp2.1\mystem.exe
